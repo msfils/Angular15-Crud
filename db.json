@@ -1,0 +1,46 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Saleh",
+      "lastName": "Ahmat",
+      "email": "m@gmail.com",
+      "mobile": "23413",
+      "weight": 66,
+      "height": 1.7,
+      "bmi": 22.837370242214536,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-04-26T22:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Ali",
+      "lastName": "Mhd",
+      "email": "ali@gmail.com",
+      "mobile": "8844667799",
+      "weight": 65,
+      "height": 1.6,
+      "bmi": 21.484374999999996,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quaterly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-04-04T22:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
